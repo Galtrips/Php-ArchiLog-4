@@ -1,0 +1,3 @@
+id,email,username,password,admin,created,modified
+1,Galtrips.pvp@gmail.com,Galtrips,$2y$10$XFrZ3L0Kgwz1wlSkZxea/.OQkArRlUNWSQ7AJFrluOKWRSM1HeAD.,1,"2023-03-10 22:49:46","2023-03-10 22:49:46"
+2,admin@gmail.com,Admin,$2y$10$vY3uYiObPso0VE3oE0moZOgUgNN6fKwcFNGWmvi2aTb7NM4oggHZi,1,"2023-03-11 11:20:20","2023-03-11 11:20:20"
