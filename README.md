@@ -89,8 +89,3 @@ The project include data test in differents formats. To test the website, you ca
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | id      | integer | Required. Pokemon cards that belong to a user |
-
-## Authors
-
-- [@Yohan Lapierre](https://forge.univ-lyon1.fr/p2103678)
-- [@Axel Gailliard](https://forge.univ-lyon1.fr/p2107616)
